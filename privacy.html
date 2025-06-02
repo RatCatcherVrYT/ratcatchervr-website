@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>GTAG Gun Game — Official Website & Privacy Policy</title>
+  <title>Primal's Playground VR — Official Website & Privacy Policy</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -110,7 +110,6 @@
       border-top: 1px solid #00ff99;
       letter-spacing: 0.03em;
     }
-    /* Smooth scroll */
     html {
       scroll-behavior: smooth;
     }
@@ -119,7 +118,7 @@
 <body>
 
 <header>
-  <h1>GTAG Gun Game</h1>
+  <h1>Primal's Playground VR</h1>
   <p>Multiplayer VR Shooter — Fight. Survive. Dominate.</p>
 </header>
 
@@ -130,8 +129,8 @@
 </nav>
 
 <section id="game-info" tabindex="0" aria-label="Game Information Section">
-  <h2>About GTAG Gun Game</h2>
-  <p>Step into the world of GTAG Gun Game — a thrilling multiplayer gunfight arena built for VR platforms. Immerse yourself in fast-paced, tactical combat where every shot counts. Connect with players globally, show off your skills, and climb the leaderboard. Featuring smooth, intuitive controls and realistic weapon handling, GTAG offers the ultimate VR shooter experience.</p>
+  <h2>About Primal's Playground VR</h2>
+  <p>Step into the world of Primal's Playground VR — a thrilling multiplayer gunfight arena built for VR platforms. Immerse yourself in fast-paced, tactical combat where every shot counts. Connect with players globally, show off your skills, and climb the leaderboard. Featuring smooth, intuitive controls and realistic weapon handling, Primal's Playground offers the ultimate VR shooter experience.</p>
 
   <p><strong>Key Features:</strong></p>
   <ul>
@@ -150,7 +149,7 @@
   <p><strong>Effective Date:</strong> June 1, 2025</p>
 
   <h3>Introduction</h3>
-  <p>Your privacy matters to us at RatcatcherVR. This Privacy Policy explains how GTAG Gun Game ("we," "us," or "our") collects, uses, discloses, and protects your information when you play our game or visit our website. We are committed to safeguarding your personal data and ensuring transparency about our practices.</p>
+  <p>Your privacy matters to us at RatcatcherVR. This Privacy Policy explains how Primal's Playground VR ("we," "us," or "our") collects, uses, discloses, and protects your information when you play our game or visit our website. We are committed to safeguarding your personal data and ensuring transparency about our practices.</p>
 
   <h3>1. Information We Collect</h3>
   <p>We collect information to provide better gameplay and improve your experience, including:</p>
@@ -195,7 +194,7 @@
   <p>To exercise these rights or ask questions about your data, please contact us at <a href="mailto:ratcatchervr@gmail.com">ratcatchervr@gmail.com</a>. We will respond promptly and in accordance with applicable law.</p>
 
   <h3>6. Children’s Privacy</h3>
-  <p>GTAG Gun Game is not intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we learn we have collected such data, we will delete it immediately.</p>
+  <p>Primal's Playground VR is not intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we learn we have collected such data, we will delete it immediately.</p>
 
   <h3>7. Changes to This Privacy Policy</h3>
   <p>We may update this policy occasionally to reflect changes in our practices or legal requirements. When we do, we will update the effective date and notify users via in-game announcements or website notices. We encourage you to review this policy regularly.</p>
@@ -203,13 +202,13 @@
   <h3>8. Contact Us</h3>
   <p>If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please reach out to:</p>
   <p><strong>Email:</strong> <a href="mailto:ratcatchervr@gmail.com">ratcatchervr@gmail.com</a></p>
-  <p><strong>Website:</strong> <a href="https://www.meta.com/experiences/24637069319214878/" target="_blank" rel="noopener noreferrer">GTAG Gun Game on Meta Quest</a></p>
+  <p><strong>Website:</strong> <a href="https://www.meta.com/experiences/24637069319214878/" target="_blank" rel="noopener noreferrer">Primal's Playground VR on Meta Quest</a></p>
 </section>
 
 <section id="contact" tabindex="0" aria-label="Contact Section">
   <h2>Contact & Support</h2>
   <p>For support, feedback, or general inquiries, feel free to email us anytime at <a href="mailto:ratcatchervr@gmail.com">ratcatchervr@gmail.com</a>.</p>
-  <p>We appreciate your feedback and are committed to making GTAG Gun Game the best multiplayer VR shooter experience possible.</p>
+  <p>We appreciate your feedback and are committed to making Primal's Playground VR the best multiplayer VR shooter experience possible.</p>
 </section>
 
 <footer>
