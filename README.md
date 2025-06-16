@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Primal's Playground VR — Official Website & Privacy Policy</title>
+  <title>Ultimate GloveBall — Official Website & Privacy Policy</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -130,18 +130,18 @@
 
 <section id="game-info" tabindex="0" aria-label="Game Information Section">
   <h2>About Primal's Playground VR</h2>
-  <p>Step into the world of Primal's Playground VR — a thrilling multiplayer gunfight arena built for VR platforms. Immerse yourself in fast-paced, tactical combat where every shot counts. Connect with players globally, show off your skills, and climb the leaderboard. Featuring smooth, intuitive controls and realistic weapon handling, Primal's Playground offers the ultimate VR shooter experience.</p>
+  <p>Step into the world of Ultimate GloveBall — a thrilling multiplayer arena built for VR platforms. Immerse yourself in fast-paced, tactical combat where every balll counts. Connect with players globally, show off your skills, and climb the leaderboard. Featuring smooth, intuitive controls and realistic ball handling, Ultimate GloveBall offers the ultimate VR Esport experience.</p>
 
   <p><strong>Key Features:</strong></p>
   <ul>
     <li>Dynamic multiplayer matches with real-time voice chat.</li>
-    <li>Wide variety of customizable weapons and skins.</li>
+    <li>Wide variety of customizable ball and icon's.</li>
     <li>Advanced movement mechanics for VR agility.</li>
-    <li>Regular updates with new maps, modes, and events.</li>
+    <li>Regular updates with new maps, and events.</li>
     <li>Fair play focus with built-in anti-cheat technology.</li>
   </ul>
 
-  <p><strong>Play now on Meta Quest:</strong> <a href="https://www.meta.com/experiences/24637069319214878/" target="_blank" rel="noopener noreferrer">https://www.meta.com/experiences/24637069319214878/</a></p>
+  <p><strong>Play now on Meta Quest:</strong> <a href="https://www.meta.com/experiences/9143406272436754/" target="_blank" rel="noopener noreferrer">https://www.meta.com/experiences/9143406272436754/</a></p>
 </section>
 
 <section id="privacy-policy" tabindex="0" aria-label="Privacy Policy Section">
@@ -149,7 +149,7 @@
   <p><strong>Effective Date:</strong> June 1, 2025</p>
 
   <h3>Introduction</h3>
-  <p>Your privacy matters to us at RatcatcherVR. This Privacy Policy explains how Primal's Playground VR ("we," "us," or "our") collects, uses, discloses, and protects your information when you play our game or visit our website. We are committed to safeguarding your personal data and ensuring transparency about our practices.</p>
+  <p>Your privacy matters to us at RatcatcherVR. This Privacy Policy explains how Ultimate GloveBall ("we," "us," or "our") collects, uses, discloses, and protects your information when you play our game or visit our website. We are committed to safeguarding your personal data and ensuring transparency about our practices.</p>
 
   <h3>1. Information We Collect</h3>
   <p>We collect information to provide better gameplay and improve your experience, including:</p>
@@ -194,7 +194,7 @@
   <p>To exercise these rights or ask questions about your data, please contact us at <a href="mailto:ratcatchervr@gmail.com">ratcatchervr@gmail.com</a>. We will respond promptly and in accordance with applicable law.</p>
 
   <h3>6. Children’s Privacy</h3>
-  <p>Primal's Playground VR is not intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we learn we have collected such data, we will delete it immediately.</p>
+  <p>PUltimate GloveBall is intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we learn we have collected such data, we will delete it immediately.</p>
 
   <h3>7. Changes to This Privacy Policy</h3>
   <p>We may update this policy occasionally to reflect changes in our practices or legal requirements. When we do, we will update the effective date and notify users via in-game announcements or website notices. We encourage you to review this policy regularly.</p>
@@ -202,13 +202,13 @@
   <h3>8. Contact Us</h3>
   <p>If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please reach out to:</p>
   <p><strong>Email:</strong> <a href="mailto:ratcatchervr@gmail.com">ratcatchervr@gmail.com</a></p>
-  <p><strong>Website:</strong> <a href="https://www.meta.com/experiences/24637069319214878/" target="_blank" rel="noopener noreferrer">Primal's Playground VR on Meta Quest</a></p>
+  <p><strong>Website:</strong> <a href="https://www.meta.com/experiences/9143406272436754/" target="_blank" rel="noopener noreferrer">Ultimate GloveBall on Meta Quest</a></p>
 </section>
 
 <section id="contact" tabindex="0" aria-label="Contact Section">
   <h2>Contact & Support</h2>
   <p>For support, feedback, or general inquiries, feel free to email us anytime at <a href="mailto:ratcatchervr@gmail.com">ratcatchervr@gmail.com</a>.</p>
-  <p>We appreciate your feedback and are committed to making Primal's Playground VR the best multiplayer VR shooter experience possible.</p>
+  <p>We appreciate your feedback and are committed to making Ultimate GloveBall the best multiplayer VR Esport experience possible.</p>
 </section>
 
 <footer>
